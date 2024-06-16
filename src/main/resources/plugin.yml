@@ -1,0 +1,8 @@
+name: ToggleIron
+version: '${project.version}'
+main: at.haha007.toggleiron.ToggleIron
+api-version: 1.18
+authors: [ Haha007 ]
+description: Toggle iron doors/trapdoors
+commands:
+  test:
